@@ -1,0 +1,266 @@
+{
+ "pack": "Stress Test Pack",
+ "version": 1,
+ "files": {
+  "Materials/Concrete.mat": {
+   "size": 573,
+   "sha256": "f852870012406b5f7f50c40bca032f8844cb087ef3bc4aff7d46cb88bfbc3ae2"
+  },
+  "Materials/Dirt.mat": {
+   "size": 541,
+   "sha256": "001e6a3e8ab87cd5a40db31f9ddbedfae4337ccd0bdefcd4785bc54558d00eac"
+  },
+  "Materials/Flag Cloth.mat": {
+   "size": 524,
+   "sha256": "c40f7f89f33b072d357e0d6b198254c1d0c5f930a983509e84575ceffbbd5b7b"
+  },
+  "Materials/Hill Grass.mat": {
+   "size": 589,
+   "sha256": "9bf3ea60d7644a8e480ef89c1929d17bbf8167f5eba4677c2bc03a107e788c89"
+  },
+  "Materials/Marble Bust.mat": {
+   "size": 438,
+   "sha256": "e6f5162885c1020ff213468d38e52ffd3ebbf1e32b7e1dde1b68b51b99b72ecc"
+  },
+  "Materials/Meadow.mat": {
+   "size": 557,
+   "sha256": "dbc680c079afa936f0238ff7ff92f4d32331eeae197884d7cdb1496269ae0916"
+  },
+  "Materials/Moss.mat": {
+   "size": 541,
+   "sha256": "4d368c8a1205f1411a78c1ceb420d03867328db3f806c71778a041c00b79c670"
+  },
+  "Materials/Rock Scan.mat": {
+   "size": 513,
+   "sha256": "36cf2b1a13dabefd7027eef75410bf2a71f5001b737143c09db2d37d3a18542e"
+  },
+  "Materials/Rock.mat": {
+   "size": 541,
+   "sha256": "5d81c6e7e271163b7263a1d754cf542ed41615d04f95cb1174dc7a5d2d5d1b03"
+  },
+  "Materials/Steel Ammo Box.mat": {
+   "size": 553,
+   "sha256": "8f6db44b5a883ae04584b002d25f18007da73bdb9068a6aaf3f50758567e74cb"
+  },
+  "Materials/Steel.mat": {
+   "size": 549,
+   "sha256": "da38ce1e4dcfae68442d1d40a523112349c61ac8b78c3e789f05d93f07f00f7f"
+  },
+  "Materials/Stone Blocks.mat": {
+   "size": 605,
+   "sha256": "032beb493d29bdc06cd569446a75085f3f7c6a5d20aa86698f40aec9555d9ced"
+  },
+  "Materials/Street Lamp.mat": {
+   "size": 529,
+   "sha256": "3051a2ad832b204f0661dc5716212221e0ba0ed4caf25f7c3a262ed7a3facc0c"
+  },
+  "Materials/Wood.mat": {
+   "size": 541,
+   "sha256": "424c36e9c607f280cb2ef9bd785307d4eb431ad178f5d45395620a0fb8e2a59c"
+  },
+  "Materials/Wooden Crate.mat": {
+   "size": 537,
+   "sha256": "4f818662bcd6fed840530c30ace3e624e27fb004af6cc3c0a857caa4b2885941"
+  },
+  "Models/Marble Bust.glb": {
+   "size": 522252,
+   "sha256": "b3bb6749e86248e40d785f00484723336fb38bb61597b06c396ad86b4302fbaa"
+  },
+  "Models/Rock.glb": {
+   "size": 362016,
+   "sha256": "785fce358193f22f25e616666fe8b67e397ea0268a251ca514cf8aecdc9de266"
+  },
+  "Models/Steel Ammo Box.glb": {
+   "size": 180788,
+   "sha256": "539ed5ff3419e47070beb1ec7db778a54126f0f37422b8946555b562dfc82cc5"
+  },
+  "Models/Street Lamp.glb": {
+   "size": 933480,
+   "sha256": "65318c279e4d6d17beddc8e44b3060011e3d79d231ac0ba75bde03db85b35bfd"
+  },
+  "Models/Wooden Crate.glb": {
+   "size": 182024,
+   "sha256": "b88906b5403dbea853a0891d4ad201c2c66c44016a224ad88fb25aeafeb89dc6"
+  },
+  "Textures/Concrete/Concrete albedo.jpg": {
+   "size": 3590812,
+   "sha256": "5af96604b20e29862b449d86981b196b18ba5cbcb8659c451dd8976411a36130"
+  },
+  "Textures/Concrete/Concrete arm.jpg": {
+   "size": 3636383,
+   "sha256": "87e7ee823a78d6d85dc98cd5d1b5a7d4e694429ef4a01f3947b7e4b8a8d284b2"
+  },
+  "Textures/Concrete/Concrete normal.jpg": {
+   "size": 3524683,
+   "sha256": "3d1f1c7a5f20a5f7a15f3bc5c5f58c0fdcaf49e71e65a5f17e086b551895c00c"
+  },
+  "Textures/Dirt/Dirt albedo.jpg": {
+   "size": 4539452,
+   "sha256": "29c997d77f56e4ea16d3e998a306be0c17fddb28ab4822657c7cd8249040ffda"
+  },
+  "Textures/Dirt/Dirt arm.jpg": {
+   "size": 3697743,
+   "sha256": "a80135a30b7ea0f29f093269acae10f83d327dcc0a20bc10083da59843988c15"
+  },
+  "Textures/Dirt/Dirt normal.jpg": {
+   "size": 5688696,
+   "sha256": "b6ec386e00d9d2a1c3a1da6a98a67066b0dfaa88ddb779341df29700cf081bdf"
+  },
+  "Textures/Flag Cloth/Flag Cloth albedo.jpg": {
+   "size": 2650991,
+   "sha256": "1f4941638b890d4535b1078067be8a831ca302d1e696ed959b4e4512de893cba"
+  },
+  "Textures/Flag Cloth/Flag Cloth arm.jpg": {
+   "size": 822275,
+   "sha256": "68b0e04fbee9a5e5e896f4e3826376149745afb67b1cf3f5a1144687f33c669f"
+  },
+  "Textures/Flag Cloth/Flag Cloth normal.jpg": {
+   "size": 2572375,
+   "sha256": "84f15ee5f6b63e7e224051a22426c751cc1fe15a794efd001ebfdb5f84828602"
+  },
+  "Textures/Hill Grass/Hill Grass albedo.jpg": {
+   "size": 3733797,
+   "sha256": "3b655de96161164bf2324e136b3409ad8417c9f94750bc008e9c93ee507c2fac"
+  },
+  "Textures/Hill Grass/Hill Grass arm.jpg": {
+   "size": 3835537,
+   "sha256": "f498dcdbfd1c29b6c36232fc56e69d467be7d6d1d180d2a294138d9c725d6b66"
+  },
+  "Textures/Hill Grass/Hill Grass normal.jpg": {
+   "size": 5892473,
+   "sha256": "5539a5913653a106a4e8a699a1d288f0b41907775b5fb36156ef5be2e937718b"
+  },
+  "Textures/Marble Bust/Marble Bust albedo.jpg": {
+   "size": 524864,
+   "sha256": "06b3a65f41942399f78a38a69dc4448c1c84b59f97390ace1fa4711baaef62df"
+  },
+  "Textures/Marble Bust/Marble Bust normal.jpg": {
+   "size": 426860,
+   "sha256": "ab9b989193741d8c2c4de66db3a148c8e88325dedc0158c9ecf3e39a9d636aa9"
+  },
+  "Textures/Marble Bust/Marble Bust rough.jpg": {
+   "size": 652231,
+   "sha256": "c9280a999c340b82baf06ab3064e3b71786bb328515106595433c63f02703780"
+  },
+  "Textures/Meadow/Meadow albedo.jpg": {
+   "size": 4766204,
+   "sha256": "8e1c6d21365d4b89bc5a35ab664da98a78dbc3ab9ba6100474881c8619a5b113"
+  },
+  "Textures/Meadow/Meadow arm.jpg": {
+   "size": 4116600,
+   "sha256": "70d61c669fe9d186a84f5bb50e8a337083014d7e46534306a89d47d48fd5eb0e"
+  },
+  "Textures/Meadow/Meadow normal.jpg": {
+   "size": 6047262,
+   "sha256": "df0cf0ce96e653f033e5b934d5b12995464bda027aa53bd12e329be889aa9f45"
+  },
+  "Textures/Moss/Moss albedo.jpg": {
+   "size": 4535360,
+   "sha256": "98ecbd1d19953433f5909b79958992b1da2b45addbee772d1d4c27287f368499"
+  },
+  "Textures/Moss/Moss arm.jpg": {
+   "size": 3799947,
+   "sha256": "fa508677559b4848a514a91428917a1545ef16d303fba2931e0c0abbbb32309d"
+  },
+  "Textures/Moss/Moss normal.jpg": {
+   "size": 4033031,
+   "sha256": "78c05b52eb78617fcce4fde7a9ac4872a9725fb2d13aff33248cbdb9c6330563"
+  },
+  "Textures/Rock Scan/Rock Scan albedo.jpg": {
+   "size": 2102702,
+   "sha256": "657406a77530db692061b475681f98cbf1c67be81a5c422830dbe6eb36df813a"
+  },
+  "Textures/Rock Scan/Rock Scan arm.jpg": {
+   "size": 863180,
+   "sha256": "eaedeb8428079a27bc5e290a61375454035b5fcfb1e9c7d16ce4bc85313789da"
+  },
+  "Textures/Rock Scan/Rock Scan normal.jpg": {
+   "size": 2565303,
+   "sha256": "944b7763b6431671e07b4e7ebe082cf747e791513e27c830a3bb2dbee0246614"
+  },
+  "Textures/Rock/Rock albedo.jpg": {
+   "size": 2914545,
+   "sha256": "f759d2471cb6a4b3b37d0a5a249adbad1d4d48d67825f37622a603dac8d9bb22"
+  },
+  "Textures/Rock/Rock arm.jpg": {
+   "size": 818655,
+   "sha256": "14f3b479a298061f846ce59bb4c0bf856499f8e3303070c1ea632a15a6d5da6d"
+  },
+  "Textures/Rock/Rock normal.jpg": {
+   "size": 4300188,
+   "sha256": "e7ad2a65b446ef70c3eb8b32267bee74d91d9759ed52c349c38e34cfd62d079e"
+  },
+  "Textures/Steel Ammo Box/Steel Ammo Box albedo.jpg": {
+   "size": 1628874,
+   "sha256": "a5782ad5b5466e9586b5ed2cbb5cd8db37d6527fafcd2adbdfde4d1aa7e29572"
+  },
+  "Textures/Steel Ammo Box/Steel Ammo Box arm.jpg": {
+   "size": 2013349,
+   "sha256": "26b0ae21903beadd4c85957774e4bf0269fafdd62142e57dc415bf9f2ede688d"
+  },
+  "Textures/Steel Ammo Box/Steel Ammo Box normal.jpg": {
+   "size": 1162417,
+   "sha256": "34cd0856aeeeadca304ad8cc229ab847c4cedb824f728a10d482f4c8d11463e3"
+  },
+  "Textures/Steel/Steel albedo.jpg": {
+   "size": 2670774,
+   "sha256": "864c9a653acd1f5034c9bbe7f955b18cc9687a81bbdfa805e7a2319939676910"
+  },
+  "Textures/Steel/Steel arm.jpg": {
+   "size": 3926194,
+   "sha256": "3b944444e12815f96c6850b385ba0e8f2f805338d8ad9e750907474b494f1ebe"
+  },
+  "Textures/Steel/Steel normal.jpg": {
+   "size": 2516654,
+   "sha256": "146f8c00874a584bcc4a184643e72f160da2a7568d469198e02b26c9ff93cf43"
+  },
+  "Textures/Stone Blocks/Stone Blocks albedo.jpg": {
+   "size": 2532455,
+   "sha256": "d478972c2f72fba4c22d687cc7007a26a99768bde4aaab2fa619d4b42adfc1c4"
+  },
+  "Textures/Stone Blocks/Stone Blocks arm.jpg": {
+   "size": 1002046,
+   "sha256": "bff3d01b0ea682689169592299770c4acf5baa7c52bd5779d161e832f5fe757c"
+  },
+  "Textures/Stone Blocks/Stone Blocks normal.jpg": {
+   "size": 3850244,
+   "sha256": "b322696a55e0501c636167de95eb6a749b1d4f50511160615ed8f3d12aeffca7"
+  },
+  "Textures/Street Lamp/Street Lamp albedo.jpg": {
+   "size": 993834,
+   "sha256": "c50a25bb68902c9e5909160924f615b4c58f31600e175c6aa976cc7b623ce41c"
+  },
+  "Textures/Street Lamp/Street Lamp arm.jpg": {
+   "size": 2332682,
+   "sha256": "dadbbf2c75473587e6023d3555f81ea4fcb899976405c61aada539c6078e24e2"
+  },
+  "Textures/Street Lamp/Street Lamp normal.jpg": {
+   "size": 1827395,
+   "sha256": "b63b40563939f3f1b2bb2bd45525f184c9d71d124020414d2f6dd0e8671e7611"
+  },
+  "Textures/Wood/Wood albedo.jpg": {
+   "size": 1286160,
+   "sha256": "1d6c8a69eec94d89a071f533dc71f99744c8091eb4c6097eb80c04769d964aca"
+  },
+  "Textures/Wood/Wood arm.jpg": {
+   "size": 611589,
+   "sha256": "38de6a46c565af0cd2dd6b619beca6ba443c494e70fb40efaaf72606b6fd9f2b"
+  },
+  "Textures/Wood/Wood normal.jpg": {
+   "size": 2849343,
+   "sha256": "dbf17e1e0ae9086330295813280e3bee580063c836811acbbac0a289aae1808d"
+  },
+  "Textures/Wooden Crate/Wooden Crate albedo.jpg": {
+   "size": 2739157,
+   "sha256": "e39ab2f122698069f4ee7d56f22624349eaf587dc9af51109d450f632d25f7ae"
+  },
+  "Textures/Wooden Crate/Wooden Crate arm.jpg": {
+   "size": 2983795,
+   "sha256": "c426597684b4e86bc2189bfaaf9d162118b54a01523ed4eec625cdbe2f1e52c8"
+  },
+  "Textures/Wooden Crate/Wooden Crate normal.jpg": {
+   "size": 2280942,
+   "sha256": "04274163275dc16b9dbd829aa45145796bd129cf980c916280fcad352cf5542e"
+  }
+ }
+}

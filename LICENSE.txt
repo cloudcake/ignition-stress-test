@@ -1,0 +1,27 @@
+Stress Test Pack: license
+
+Every model and texture in this pack is CC0 1.0 Universal (public domain dedication):
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Source: Poly Haven, https://polyhaven.com (downloaded through its public API, api.polyhaven.com).
+Models were merged into one mesh each, re-centred and re-scaled, and saved as geometry-only
+.glb files; textures are the original 2K JPEGs, renamed.
+
+Models
+  Wooden Crate     https://polyhaven.com/a/wooden_crate_02
+  Steel Ammo Box   https://polyhaven.com/a/ammo_box
+  Street Lamp      https://polyhaven.com/a/street_lamp_01
+  Marble Bust      https://polyhaven.com/a/marble_bust_01
+  Rock (Rock Scan) https://polyhaven.com/a/rock_09
+
+Textures
+  Meadow           https://polyhaven.com/a/leafy_grass
+  Hill Grass       https://polyhaven.com/a/sparse_grass
+  Moss             https://polyhaven.com/a/mossy_rock
+  Rock             https://polyhaven.com/a/aerial_rocks_02
+  Concrete         https://polyhaven.com/a/brushed_concrete
+  Stone Blocks     https://polyhaven.com/a/castle_brick_07
+  Wood             https://polyhaven.com/a/brown_planks_05
+  Steel            https://polyhaven.com/a/metal_plate
+  Dirt             https://polyhaven.com/a/brown_mud_leaves_01
+  Flag Cloth       https://polyhaven.com/a/fabric_pattern_07

@@ -1,0 +1,23 @@
+{
+  "base_color": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "base_color_texture": "Stress Test Pack/Textures/Stone Blocks/Stone Blocks albedo.jpg",
+  "metallic": 1.0,
+  "roughness": 1.0,
+  "normal_texture": "Stress Test Pack/Textures/Stone Blocks/Stone Blocks normal.jpg",
+  "normal_strength": 1.0,
+  "uv_scale": [
+    1,
+    1
+  ],
+  "occlusion_strength": 1.0,
+  "metallic_roughness_texture": "Stress Test Pack/Textures/Stone Blocks/Stone Blocks arm.jpg",
+  "occlusion_texture": "Stress Test Pack/Textures/Stone Blocks/Stone Blocks arm.jpg",
+  "world_mapping": true,
+  "world_tile": 3.0,
+  "world_blend": 8.0
+}

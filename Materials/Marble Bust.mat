@@ -1,0 +1,19 @@
+{
+  "base_color": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "base_color_texture": "Stress Test Pack/Textures/Marble Bust/Marble Bust albedo.jpg",
+  "metallic": 0.0,
+  "roughness": 1.0,
+  "normal_texture": "Stress Test Pack/Textures/Marble Bust/Marble Bust normal.jpg",
+  "normal_strength": 1.0,
+  "uv_scale": [
+    1,
+    1
+  ],
+  "occlusion_strength": 1.0,
+  "roughness_texture": "Stress Test Pack/Textures/Marble Bust/Marble Bust rough.jpg"
+}
